@@ -14,7 +14,7 @@ Hi, my name is Jessie Ying and I am currently a junior at Worcester Polytechnic 
 
 # My Design Manifesto and Projects
 
-During my design process for building applications, I was able to apply a lot of what I learned from class and readings to my projects. In doing so, I was able to establish five key steps that are necessary in creating a successful application: brainstorming, establishing an objective, user testing, feedback gathering, and reflection and repeat.
+During my design process for building applications, I was able to apply a lot of what I learned from class and readings to my projects. In doing so, I was able to establish five key steps that are necessary in creating a successful application: brainstorming, establishing an objective, user prototyping, testing and feedback, and reflection.
 
 ### Brainstorming: Coming up with as many ideas as possible
 
