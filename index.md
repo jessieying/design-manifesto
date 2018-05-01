@@ -33,7 +33,6 @@ Another reading, [Ideation Overview](https://kixlab.org/courses/cs374-spring-201
 
 
 
-
 ### Establishing an objective: Making the purpose clear
 
 I found that establishing a clear objective before diving in and building our application was super important and made the overall process a lot easier. It was crucial to set a goal and define the purpose of the application before starting. For example, if the application is trying to solve a problem, what is the scope of the problem and how does the appplication target this? The article [How to Define Problems](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html) discusses how to derive goals from your data gathered in the brainstorming phase. Another aspect to consider in this phase is who you are designing for. Figuring out the target audience allows you to better understand how to design your application for the users that will actually be using your product.
@@ -79,6 +78,14 @@ In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-
 **James:** No, thanks!
 
 **Bot:** No problem!
+
+### Testing and feedback:
+
+Testing an application is vital to its success and effectiveness. It allows you to find out if your application is usable and accomplishes its purpose. During in-class demo days, we were able to do this by showing our application to people from other groups and observing how they interact with our product. Sometimes we found that users didn’t quite do what we expected them to, or they didn’t entirely understand a certain aspect of our application. For example, in [Designing for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07), some users had trouble making the facial features our application was programmed to detect, while others didn’t make facial features at all. We took note of this for future improvements. Below is the sad expression that our Designing for Wellbeing application is supposed to detect. However, this did not occur for several users, so they were not able to experience one of the key features of our application.
+
+![sad](https://jessieying.github.io/design-manifesto/images/wellbeing-sad.png)
+
+In addition, feedback from users after testing was very valuable, because it allowed us to see what they liked and didn’t like about our application, as well as other possible features that we could implement that users might want or need.
 
 
 * * *
