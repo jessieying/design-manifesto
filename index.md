@@ -18,7 +18,20 @@ During my design process for building applications, I was able to apply a lot of
 
 **Brainstorming: Coming up with as many ideas as possible**
 
-The design processes for each of our projects always started with brainstorming. We wanted to come up with as many as ideas as possible during this phase; any and every idea was acceptable. An strong emphasis was placed on quantity over quality, because it was neccessary to have as many ideas as we could, to have more options of what to create. Later on in the design process would be where the focus shifts to improving the quality of the application.
+The design processes for each of our projects always started with brainstorming. We wanted to come up with as many as ideas as possible during this phase; any and every idea was acceptable. An strong emphasis was placed on quantity over quality, because it was necessary to have as many ideas as we could (even the bad ones), so that we can figure out how to make those ideas better and combine the best parts of all of our ideas to create the best product we can. The reading [How to be Creative](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html) discusses this strategy and encourages externalizing bad ideas to figure out what’s wrong with those ideas and how to improve them.
+
+In [Design for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07, we came up with a lot of ideas from our initial brainstorming session, which was very helpful later on when deciding what application to build. We were able to compare the all ideas we came up with and pick the one we thought would be best, while incorporating cool features from our other ideas into our final application as well. Below are the sheets from our brainstorming session:
+![sheet 1](https://jessieying.github.io/design-manifesto/images/sheet1.jpg)
+![sheet 2](https://jessieying.github.io/design-manifesto/images/sheet2.jpg)
+![sheet 3](https://jessieying.github.io/design-manifesto/images/sheet3.jpg)
+![sheet 4](https://jessieying.github.io/design-manifesto/images/sheet4.jpg)
+
+From the ideas gathered above, we were able to come up with our final product:
+![sheet 5](https://jessieying.github.io/design-manifesto/images/sheet5.jpg)
+
+Another reading, [Ideation Overview](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/), talked about how group brainstorming by itself is not the most effective for coming up with as many ideas as possible. Instead, each member should generate ideas individually and then come together to share and build on each other’s ideas. In [Designing for Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64), my group implemented this strategy and we were able to come up with an overwhelming amount of ideas, which was really great. The results from our group brainstorming session (after each of us shared our own ideas) are shown below:
+![brainstorming](https://jessieying.github.io/design-manifesto/images/another-world-brainstorm.jpg)
+
 
 * * *
 
