@@ -94,7 +94,9 @@ In addition, feedback from users after testing was very valuable, because it all
 
 
 ### Reflection: Evaluating strengths and weaknesses
-At the end of any design process, reflecting on things that went well and things that didn’t is a very important step. Acknowledging areas of improvement helps us see what we could have done better and what we could do to improve our application in the future. Also, in this phase, we established what potential next steps for our project would be if we had more time to work on it. In [Designing for Understanding](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868),...
+At the end of any design process, reflecting on things that went well and things that didn’t is a very important step. Acknowledging areas of improvement helps us see what we could have done better and what we could do to improve our application in the future. Also, in this phase, we established what potential next steps for our project would be  if we had more time to work on it. For our last project, [Designing for Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64), we were able to gather lots of feedback about our virtual reality application. We found that people liked the overall look and feel of our scene and the idea of it being interactive, but they wished there were more games features, such as winning and losing. This helped us to see what worked well, in addition to determining what we could do to improve upon our application next time if we had more time.
+
+
 
 
 * * *
