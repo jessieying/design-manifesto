@@ -3,7 +3,7 @@
 
 ### Design Manifesto and Projects
 
-In D-Term of 2018, I took the course Human-Computer Interaction with Professor Lane Harrison. Throughout the course, we learned a lot about the design process of creating applications and how those design choices impact a user’s experience.
+In D-Term of 2018, I took a course on Human-Computer Interaction with Professor Lane Harrison. Throughout the course, we learned a lot about the design process of creating applications and how those design choices impact a user’s experience. 
 
 * * *
 
