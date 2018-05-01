@@ -3,7 +3,7 @@
 
 ### Overview
 
-In D-Term of 2018, I took a course on Human-Computer Interaction with Professor Lane Harrison. Throughout the term, we learned a lot about design processes and solutions involved in creating applications, and how those design choices impact a user’s experience. In groups of 3-4 students, we explored specific aspects of human-centered design by creating prototype applications and documenting the process. While doing so, I found that for each of these applications, I started following a general design pattern based off of strategies and principles we learned from class. Below, I explain my design processes, along with how they correspond to the projects I worked on throughout this term. Feel free to keep reading to learn about my design manifesto, or check out my portfolio of projects at the bottom of this page!
+In D-Term of 2018, I took a course on Human-Computer Interaction with Professor Lane Harrison. Throughout the term, we learned a lot about design processes and solutions involved in creating applications, and how those design choices impact a user’s experience. In groups of 3-4 students, we explored specific aspects of human-centered design by creating prototype applications and documenting the process. While doing so, I found that for each of these applications, I started following a general design pattern based off of strategies and principles we learned from class. Below, I explain my design processes, along with how they correspond to the projects I worked on in this class. Feel free to keep reading to learn about my design manifesto, or check out my portfolio of projects at the bottom of this page!
 
 * * *
 
