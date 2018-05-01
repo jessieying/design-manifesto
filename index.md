@@ -20,7 +20,7 @@ Text...
 ### Portfolio
 
 [![Others](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c)
-[![Understanding](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
+[![Understanding](https://jessieying.github.io/design-manifesto/images/design-for-understanding.png)](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
 [![Tension](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5)
 [![Wellbeing](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07)
 [![Another World](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64)
