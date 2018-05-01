@@ -1,6 +1,5 @@
 ## Welcome to My Site
-
- 
+    
 
 ### Design Manifesto and Projects
 
