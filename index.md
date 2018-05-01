@@ -32,11 +32,15 @@ Another reading, [Ideation Overview](https://kixlab.org/courses/cs374-spring-201
 ![brainstorming](https://jessieying.github.io/design-manifesto/images/another-world-brainstorm.jpg)
 
 
+
+
 ### Establishing an objective: Making the purpose clear
 
 I found that establishing a clear objective before diving in and building our application was super important and made the overall process a lot easier. It was crucial to set a goal and define the purpose of the application before starting. For example, if the application is trying to solve a problem, what is the scope of the problem and how does the appplication target this?
 
 In the first few assignments, we were given the scope of project as well as our objective and target audience. In [Designing for Others](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c), our goal was to prototype a mobile version of the Worcester Public Library site and cater it towards parents of children ages 3–10. This made it easy for us to jump right in and start designing, so I didn’t really think too much of this step as a crucial one in the design process. However, by the end of the term, the projects were a lot more open-ended, so when we had to establish our own objectives and goals for the user, I found it much more difficult to define our application’s purpose. In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5), we had to decide on a topic and the specific use of our chatbot as well as our target audience. [Designing for Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64) was even more open-ended, and we could pick any scene or world to simulate in our virtual reality application.
+
+
 
 ### User prototyping: Seeing how your application works
 
