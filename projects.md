@@ -1,4 +1,4 @@
-## Welcome to My Site
+## Welcome to my Portfolio
 
 This is a [link](https://github.com/jessieying/design-manifesto/edit/master/README.md).
 
