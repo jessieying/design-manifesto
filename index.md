@@ -38,6 +38,29 @@ I found that establishing a clear objective before diving in and building our ap
 
 In the first few assignments, we were given the scope of project as well as our objective and target audience. In [Designing for Others](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c), our goal was to prototype a mobile version of the Worcester Public Library site and cater it towards parents of children ages 3–10. This made it easy for us to jump right in and start designing, so I didn’t really think too much of this step as a crucial one in the design process. However, by the end of the term, the projects were a lot more open-ended, so when we had to establish our own objectives and goals for the user, I found it much more difficult to define our application’s purpose. In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5), we had to decide on a topic and the specific use of our chatbot as well as our target audience. [Designing for Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64) was even more open-ended, and we could pick any scene or world to simulate in our virtual reality application.
 
+### User prototyping: Seeing how your application works
+
+Prototyping is another important step in designing an application because it helps to clear up uncertainties about how the application will work, what it will look like, and whether or not it addresses the problem you’re trying to tackle. As mentioned by the author in [Why you should be prototyping](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848), first attempts at building applications are almost always wrong, or not entirely perfect. So that’s where prototyping comes in. It allows the programmer to observe how users interact with their application, and to see if their initial designs were a good idea or not. Also, methods of prototyping (such as [paper prototyping](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/)) can be very cheap and quick to make for the purpose of seeing how people use your application, so you don’t have to spend lots of time and money on building the final product, just to find out it is not user-friendly, or it doesn’t achieve the purpose you intended it to.
+
+In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5), we used the Wizard of Oz prototyping method, as discussed in the article [How to Prototype](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html). This technique involved us having one person simulate being the bot by asking another person questions relating to the product they were “considering” buying. Below is a sample conversation we had with a friend:
+
+**James:** What do you do?
+**Bot:** I am the bot of reason, I can help you make better financial decisions. Feel free to ask me questions about things that you are considering purchasing
+**James:** Should i buy a new pair of soccer cleats?
+**Bot:** Nice! Would you use this for school/work, or for play
+**James:** Play
+**Bot:** Great! How often will you use it?
+**James:** 2 or more times per week
+**Bot:** Will these benefit you in the long term?
+**James:** Yes
+**Bot:** Can you easily afford this, or will this be a big purchase for you?
+**James:** I can easily afford this
+**Bot:** Great, then treat yo self! You deserve it!
+**James:** Awesome!
+**Bot:** Is there anything else you would like to ask me?
+**James:** No, thanks!
+**Bot:** No problem!
+
 
 * * *
 
