@@ -32,7 +32,7 @@ Click on any of the projects below to learn more:
 [![Understanding](https://jessieying.github.io/design-manifesto/images/design-for-understanding.png)](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
 
 **Design for Tension**
-[![Tension](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5)
+[![Tension](https://jessieying.github.io/design-manifesto/images/design-for-tension.png)](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5)
 
 **Design for Wellbeing**
 [![Wellbeing](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07)
