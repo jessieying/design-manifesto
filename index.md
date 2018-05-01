@@ -16,6 +16,8 @@ Hi, my name is Jessie Ying and I am currently a junior at Worcester Polytechnic 
 
 During my design process for building applications, I was able to apply a lot of what I learned from class and readings to my projects. In doing so, I was able to establish five key steps that are necessary in creating a successful application: brainstorming, establishing an objective, user prototyping, testing and feedback, and reflection.
 
+
+
 ### Brainstorming: Coming up with as many ideas as possible
 
 The design processes for each of our projects always started with brainstorming. We wanted to come up with as many as ideas as possible during this phase; any and every idea was acceptable. An strong emphasis was placed on quantity over quality, because it was necessary to have as many ideas as we could (even the bad ones), so that we can figure out how to make those ideas better and combine the best parts of all of our ideas to create the best product we can. The reading [How to be Creative](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html) discusses this strategy and encourages externalizing bad ideas to figure out what’s wrong with those ideas and how to improve them.
@@ -79,13 +81,20 @@ In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-
 
 **Bot:** No problem!
 
-### Testing and feedback:
+
+
+### Testing and feedback: Usability of your application
 
 Testing an application is vital to its success and effectiveness. It allows you to find out if your application is usable and accomplishes its purpose. During in-class demo days, we were able to do this by showing our application to people from other groups and observing how they interact with our product. Sometimes we found that users didn’t quite do what we expected them to, or they didn’t entirely understand a certain aspect of our application. For example, in [Designing for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wellbeing-creating-an-emotion-detector-to-control-videos-41709636be07), some users had trouble making the facial features our application was programmed to detect, while others didn’t make facial features at all. We took note of this for future improvements. Below is the sad expression that our Designing for Wellbeing application is supposed to detect. However, this did not occur for several users, so they were not able to experience one of the key features of our application.
 
 ![sad](https://jessieying.github.io/design-manifesto/images/wellbeing-sad.png)
 
 In addition, feedback from users after testing was very valuable, because it allowed us to see what they liked and didn’t like about our application, as well as other possible features that we could implement that users might want or need.
+
+
+
+### Reflection: Evaluating strengths and weaknesses
+At the end of any design process, reflecting on things that went well and things that didn’t is a very important step. Acknowledging areas of improvement helps us see what we could have done better and what we could do to improve our application in the future. Also, in this phase, we established what potential next steps for our project would be if we had more time to work on it. In [Designing for Understanding](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868),...
 
 
 * * *
