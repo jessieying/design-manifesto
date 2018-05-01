@@ -23,7 +23,7 @@ Text...
 Click on any of the projects below to learn more:
 
 **Design for Others**
-[![Others](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c) {:target="_blank"}
+[![Others](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c)
 
 **Design for Understanding**
 [![Understanding](https://jessieying.github.io/design-manifesto/images/design-for-understanding.png)](https://medium.com/design-for-understanding-design-process/design-for-understanding-b3d08904b868)
