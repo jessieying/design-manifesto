@@ -12,7 +12,7 @@ Hi, my name is Jessie Ying and I am currently a junior at Worcester Polytechnic 
 
 * * *
 
-## Design Manifesto and Projects
+## My Design Manifesto and Projects
 
 Text... 
 
