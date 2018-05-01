@@ -3,6 +3,7 @@
 
 ### Design Manifesto and Projects
 
+* * *
 
 ### A Little About Me
 
