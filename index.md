@@ -26,10 +26,9 @@ In [Design for Wellbeing](https://medium.com/design-for-wellbeing/design-for-wel
 ![sheet 3](https://jessieying.github.io/design-manifesto/images/sheet3.jpg)
 ![sheet 4](https://jessieying.github.io/design-manifesto/images/sheet4.jpg)
 
-From the ideas gathered above, we were able to come up with our final product:
-![sheet 5](https://jessieying.github.io/design-manifesto/images/sheet5.jpg)
-
 Another reading, [Ideation Overview](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/), talked about how group brainstorming by itself is not the most effective for coming up with as many ideas as possible. Instead, each member should generate ideas individually and then come together to share and build on each other’s ideas. In [Designing for Another World](https://medium.com/@robertharrison43/design-for-another-world-603bed415e64), my group implemented this strategy and we were able to come up with an overwhelming amount of ideas, which was really great. The results from our group brainstorming session (after each of us shared our own ideas) are shown below:
+
+
 ![brainstorming](https://jessieying.github.io/design-manifesto/images/another-world-brainstorm.jpg)
 
 
