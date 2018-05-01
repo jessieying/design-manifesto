@@ -45,20 +45,35 @@ Prototyping is another important step in designing an application because it hel
 In [Designing for Tension](https://medium.com/@john3r8amaral/design-for-tension-8081059ed3e5), we used the Wizard of Oz prototyping method, as discussed in the article [How to Prototype](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html). This technique involved us having one person simulate being the bot by asking another person questions relating to the product they were “considering” buying. Below is a sample conversation we had with a friend:
 
 **James:** What do you do?
+
 **Bot:** I am the bot of reason, I can help you make better financial decisions. Feel free to ask me questions about things that you are considering purchasing
+
 **James:** Should i buy a new pair of soccer cleats?
+
 **Bot:** Nice! Would you use this for school/work, or for play
+
 **James:** Play
+
 **Bot:** Great! How often will you use it?
+
 **James:** 2 or more times per week
+
 **Bot:** Will these benefit you in the long term?
+
 **James:** Yes
+
 **Bot:** Can you easily afford this, or will this be a big purchase for you?
+
 **James:** I can easily afford this
+
 **Bot:** Great, then treat yo self! You deserve it!
+
 **James:** Awesome!
+
 **Bot:** Is there anything else you would like to ask me?
+
 **James:** No, thanks!
+
 **Bot:** No problem!
 
 
