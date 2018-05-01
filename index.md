@@ -20,7 +20,7 @@ Text...
 
 ### Portfolio
 
-Click on any of the projects below to learn more:
+Click on any of my projects below to learn more:
 
 **Design for Others**
 [![Others](https://jessieying.github.io/design-manifesto/images/design-for-others.png)](https://medium.com/@Avorent/an-alternate-design-for-worcester-public-library-21d8021b470c)
